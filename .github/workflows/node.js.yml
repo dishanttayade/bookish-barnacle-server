@@ -27,5 +27,4 @@ jobs:
     - run: npm ci
       env: 
          CI: false
-    - run: npm run build
       
